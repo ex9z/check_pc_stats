@@ -1,3 +1,8 @@
+# for ubuntu
+# apt-get install python3-pip
+# pip install psutil
+# pip install json
+
 import psutil
 import os
 import json
